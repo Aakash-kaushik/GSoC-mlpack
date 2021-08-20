@@ -2,7 +2,7 @@
 
 **Organisation: [mlpack](https://github.com/mlpack)**
 
-**Project: Addition of ResNet Module and MobileNet V1**
+**Project: [Addition of ResNet Module and MobileNet V1](https://summerofcode.withgoogle.com/projects/#6085617844224000)**
 
 **Mentors: [Marcus Edel](https://github.com/zoq) and [Kartik dutt](https://github.com/kartikdutt18)**
 
@@ -21,7 +21,8 @@ Both the model builders that I proposed with pretrained weights with a lot of co
 
 ## g++ Contributions.cpp -o Contributions
 
-I have divided my contributions according to the repositories and PR having this ☀️ symbol in front of them was the core part of my projects others were mostly the ones that I picked up on the way but weren't mentioned in my project. 
+I have divided my contributions according to the repositories and PR having this ☀️ symbol in front of them was the core part of my projects others were mostly the ones that I picked up on the way but weren't mentioned in my project.
+
 PS: The sun emoji because that resembles the GSoC logo. :p
 
 ### [mlpack/models](https://github.com/mlpack/models)
@@ -33,7 +34,7 @@ PS: The sun emoji because that resembles the GSoC logo. :p
 - [Ctest Fix](https://github.com/mlpack/models/pull/73) - merged
 - [Documentation for models repo](https://github.com/mlpack/models/pull/65) - open
 
-### [mlpack/mlapck](https://github.com/mlpack/mlpack)
+### [mlpack/mlpack](https://github.com/mlpack/mlpack)
 
 - [Addition of DepthWise layer](https://github.com/mlpack/mlpack/pull/3007) - open ☀️
 - [Documentation revamp](https://github.com/mlpack/mlpack/pull/2990) - open
