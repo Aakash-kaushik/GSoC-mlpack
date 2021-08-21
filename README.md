@@ -47,8 +47,8 @@ PS: The sun emoji because that resembles the GSoC logo. :p
 
 This repository was used to port weights for all the ResNet and MobileNetV1 from Pytorch and thus contains two branches, one for resnet and the other one for MobileNetV1.
 
-- [Resnet](https://github.com/Aakash-kaushik/mlpack-PyTorch-Weight-Translator/tree/resnet)
-- [MobileNet V1](https://github.com/Aakash-kaushik/mlpack-PyTorch-Weight-Translator/tree/mobilenetv1)
+- [Resnet](https://github.com/Aakash-kaushik/mlpack-PyTorch-Weight-Translator/tree/resnet) ☀️
+- [MobileNet V1](https://github.com/Aakash-kaushik/mlpack-PyTorch-Weight-Translator/tree/mobilenetv1) ☀️
 
 ## Final Thoughts
 
